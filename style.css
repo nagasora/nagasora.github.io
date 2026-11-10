@@ -3,3 +3,4 @@
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.8 "Hiragino Sans","Noto Sans JP",system-ui,sans-serif}
 main{max-width:720px;margin:0 auto;padding:40px 16px 64px}h1{font-size:1.6rem;line-height:1.4;margin:0 0 8px}h2{font-size:1.15rem;margin:32px 0 8px;padding-top:16px;border-top:1px solid var(--line)}
 a{color:var(--accent)}.meta{color:var(--soft);font-size:.9rem}nav{margin-bottom:24px;font-size:.9rem}ul{padding-left:1.2em}
+h3{font-size:1rem;margin:24px 0 4px}.lead{font-size:1.05rem}.links{margin-top:40px}
